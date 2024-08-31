@@ -8,6 +8,9 @@ The idea here is to develop a system to estimate HDI using data that is easier t
 
 
 ● Developed a multimodal convolutional neural network to estimate Subnational Human Development Index around the world using TensorFlow and Keras
+
 ● Designed architecture, trained model using NASA Black Marble’s nighttime satellite imagery and NASA SEDAC gridded population data
+
 ● Developed method in Python to compile and process data from multiple sources using Pandas, Pillow, NumPy
+
 ● Mean Absolute Error of 0.0945 points
